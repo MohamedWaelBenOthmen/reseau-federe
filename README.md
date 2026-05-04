@@ -30,5 +30,5 @@ authentification SSO et chiffrement des données.
 | US05 - Partage chiffré | 5pts | Membre 4 |
 
 ## 🔗 Liens
-- Trello : [lien de ton tableau Trello]
-- Présentation : [lien Gamma ou Prezi]
+- Trello : [https://trello.com/b/kU57pPar/reseau-federe-universite-entreprise]
+- Présentation : [https://gamma.com.ai/ppt-info-include?recordId=1777913776362401655&templateId=233&isFrontBackSeparated=1]
